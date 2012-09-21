@@ -2,7 +2,7 @@ package com.OMAY.gits;
 
 public class gitTest {
 	public static void main(String[] args) {
-		System.out.println("My first git");
+		System.out.println("My git");
 	}
 
 }
